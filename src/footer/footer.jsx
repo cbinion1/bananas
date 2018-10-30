@@ -1,5 +1,5 @@
 import React from 'react';
-import Logo from './images/cameronBinionLogo.png';
+import Logo from '../images/cameronBinionLogo.png';
 
 
 export default class MyFooter extends React.Component {
